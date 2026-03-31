@@ -1,4 +1,7 @@
 #include <iostream>
-using namespace std
+using namespace std;
 
-cout << hello world
+int main() {
+    cout << "hello world" << endl;
+    return 0;
+}
